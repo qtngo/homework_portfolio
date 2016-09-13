@@ -1,0 +1,120 @@
+body{
+	background: url("../images/background: 01px;.jpg");
+	width: 1400px;
+
+}
+
+header{
+	/*height:100px;*/
+	background-color: lightgray;
+	border: 1px solid black;
+	position:relative;
+	opacity: 0.5;
+	margin:20px;
+	padding-left:10px;
+	padding-bottom:10px;
+}
+
+nav{
+	float:left;
+}
+
+div{
+	/*height:100px;*/
+	/*background-color: tan;*/
+	/*border: 1px solid black;*/
+	margin:20px;
+
+}
+
+section{
+	height:250px;
+	/*background-color: gray;*/
+	/*border: 1px solid black;*/
+	position:relative;
+}
+
+/*Left Side: Image of the Project*/
+aside{
+	height:230px;
+	width:320px;
+	/*background-color: peachpuff;*/
+	/*border: 1px solid black;*/
+	margin:10px 10px 10px 20px;
+	float:left;
+	position:absolute;
+}
+
+/*Right Side: All the Text, H's, synopsis*/
+article{
+	height:230px;
+	width:1000px;
+	/*background-color: aqua;*/
+	/*border: 1px solid black;*/
+	float:right;
+	margin:10px 20px 10px 360px;
+	position: absolute;
+}
+
+footer{
+	height:100px;
+	/*background-color: lightgray;*/
+	/*border: 1px solid black;*/
+	opacity: 0.5;
+	margin:20px;
+	padding-left:10px;
+	padding-bottom:10px;
+}
+
+
+#aside-proj1, 
+#aside-proj2, 
+#aside-proj3, 
+#aside-proj4, 
+#aside-proj5, 
+#aside-proj6 {
+	background-repeat:no-repeat;
+	background-size: 100%;	/*auto-fit to browser width*/
+	opacity:0.8;
+}
+
+#aside-proj1{
+	background-image:url("../images/img_proj1.png");
+}
+
+#aside-proj2{
+	background-image:url("../images/img_proj2.png");
+}
+
+#aside-proj3{
+	background-image:url("../images/img_proj3.png");
+}
+
+#aside-proj4{
+	background-image:url("../images/img_proj4.png");
+}
+
+#aside-proj5{
+	background-image:url("../images/img_proj5.png");
+}
+
+#aside-proj6{
+	background-image:url("../images/img_proj6.png");
+}
+
+#firstchar{
+	float: left;
+	color: #903; 
+	font-size: 75px; 
+	line-height: 40px; 
+	padding-top: 4px; 
+	padding-right: 8px; 
+	padding-left: 3px; 
+}
+
+
+
+
+
+
+
